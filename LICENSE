@@ -1,3 +1,24 @@
+if used, please cite:
+
+Roberto Pinho and Maria Cristina Ferreira de Oliveira. 2009. 
+HexBoard: Conveying Pairwise Similarity in an Incremental Visualization Space. 
+In Proceedings of the 2009 13th International Conference Information Visualisation (IV '09). 
+IEEE Computer Society, Washington, DC, USA, 32-37. DOI=10.1109/IV.2009.12
+http://dx.doi.org/10.1109/IV.2009.12
+
+and
+
+Roberto Pinho, Maria Cristina F. de Oliveira, and Alneu de A. Lopes. 2009. 
+Incremental board: a grid-based space for visualizing dynamic data sets. 
+In Proceedings of the 2009 ACM symposium on Applied Computing (SAC '09). 
+ACM, New York, NY, USA, 1757-1764.
+DOI=10.1145/1529282.1529679 http://doi.acm.org/10.1145/1529282.1529679
+
+
+
+
+
+
 GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
